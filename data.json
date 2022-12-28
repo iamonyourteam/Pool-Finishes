@@ -1,9 +1,15 @@
 [
-    { "name": "Aqua - Micro", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_aqua-min.jpg"},
-    { "name": "Base - Micro", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_base-min.jpg"},
-    { "name": "Black Onyx - Micro", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_black_onyx-min.jpg"},
-    { "name": "Caribbean Blue - Micro", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_caribbean_blue-min.jpg"},
-    { "name": "Grey Harvour - Micro", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_grey_harbour-min.jpg"}
+    { "name": "Aqua - Micro Pebble", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_aqua-min.jpg"},
+    { "name": "Base - Micro Pebble", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_base-min.jpg"},
+    { "name": "Black Onyx - Micro Pebble", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_black_onyx-min.jpg"},
+    { "name": "Caribbean Blue - Micro Pebble", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_caribbean_blue-min.jpg"},
+    { "name": "Grey Harbour - Micro Pebble", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_grey_harbour-min.jpg"},
+    { "name": "Majestic Isle - Micro Pebble", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_majestic_isle-min.jpg"},
+    { "name": "Midnight Blue - Micro Pebble", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_midnight_blue-min.jpg"},
+    { "name": "Sandy Beach - Micro Pebble", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_sandy_beach-min.jpg"},
+    { "name": "Turquoise - Micro Pebble", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_turquoise-min.jpg"},
+    { "name": "Caribbean Blue - Smooth Pebble", "photoUrl":""}
+
   
 
   ]
