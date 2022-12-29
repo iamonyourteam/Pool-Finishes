@@ -47,8 +47,7 @@ fetch('data.json')
 				
 			}
 		}
-		
-	//   console.table(filteredData)
+	
 		// Clear the results container
 		document.getElementById('results').innerHTML = '';
 	  

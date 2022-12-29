@@ -67,10 +67,43 @@
     { "name": "Majestic Isle - Micro", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_majestic_isle-min.jpg","tags":["Pebble"]},
     { "name": "Midnight Blue - Micro", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_midnight_blue-min.jpg","tags":["Pebble"]},
     { "name": "Sandy Beach - Micro", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_sandy_beach-min.jpg","tags":["Pebble"]},
-    { "name": "Turquoise - Micro", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_turquoise-min.jpg","tags":["Pebble"]}
+    { "name": "Turquoise - Micro", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/CSM_turquoise-min.jpg","tags":["Pebble"]},
 
 
 
+    { "name": "Aquamarine", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_Aquamarine-min.jpg","tags":["Quartz"]},
+    { "name": "Beach", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_beach-min.jpg","tags":["Quartz"]},
+    { "name": "Blue Pepper", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_blue_pepper-min.jpg","tags":["Quartz"]},
+    { "name": "Blue Quartz", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_blue_quartz-min.jpg","tags":["Quartz"]},
+    { "name": "Ebony", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_ebony-min.jpg","tags":["Quartz"]},
+    { "name": "French Gray", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_french_gray-min.jpg","tags":["Quartz"]},
+    { "name": "Ivory", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_Ivory-min.jpg","tags":["Quartz"]},
+    { "name": "Krystal Blue", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_krystal_blue-min.jpg","tags":["Quartz"]},
+    { "name": "Midnight Blue", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_midnight_blue-min.jpg","tags":["Quartz"]},
+    { "name": "Super Blue", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_super_blue-min.jpg","tags":["Quartz"]},
+    { "name": "Supreme", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_supreme-min.jpg","tags":["Quartz"]},
+    { "name": "Tahoe Blue", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_tahoe_blue-min.jpg","tags":["Quartz"]},
+    { "name": "Verde", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_verde-min.jpg","tags":["Quartz"]},
+    { "name": "Teal", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/KK_teal-min.jpg","tags":["Quartz"]},
+    { "name": "Caribe", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/HYD_jamacian_mist.png","tags":["Quartz"]},
+    { "name": "Salt and Pepper", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/HYD_jamacian_mist.png","tags":["Quartz"]},
+
+    { "name": "Antigua - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_antigua-min.jpg","tags":["Quartz"]},
+    { "name": "Black Onyx - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_black_onyx-min.jpg","tags":["Quartz"]},
+    { "name": "Blue Mist - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_blue_mist-min.jpg","tags":["Quartz"]},
+    { "name": "Blue Quartz - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_blue_quartz-min.jpg","tags":["Quartz"]},
+    { "name": "Blue - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_blue-min.jpg","tags":["Quartz"]},
+    { "name": "Buff - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_buff-min.jpg","tags":["Quartz"]},
+    { "name": "Cayman - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_cayman-min.jpg","tags":["Quartz"]},
+    { "name": "Jade - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_jade-min.jpg","tags":["Quartz"]},
+    { "name": "Midnight Blue - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_midnight_blue-min.jpg","tags":["Quartz"]},
+    { "name": "Morning Beach - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_morning_beach-min.jpg","tags":["Quartz"]},
+    { "name": "Natural - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_natural-min.jpg","tags":["Quartz"]},
+    { "name": "Smoke - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_smoke-min.jpg","tags":["Quartz"]},
+    { "name": "Super Blue - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_super_blue-min.jpg","tags":["Quartz"]},
+    { "name": "Verde - Sunstone", "photoUrl":"https://wp.clindustries.com/wp-content/uploads/2022/08/SS_verde-min.jpg","tags":["Quartz"]}
+
+    
 
 ]
 
